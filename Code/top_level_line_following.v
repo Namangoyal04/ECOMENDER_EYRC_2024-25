@@ -5,7 +5,6 @@
 # Filename:         < top_level_line_following >
 # File Description: < this is a integrating file created for integrating pwm generator,line follower data processing and line following,to make the bot follow the line >
 */
-
 module top_level_line_following(
       input       start,
       input       dig_out, 
