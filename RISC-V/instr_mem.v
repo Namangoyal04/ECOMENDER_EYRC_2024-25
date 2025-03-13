@@ -13,8 +13,6 @@ initial begin
     $readmemh("rv32i_test.hex", instr_ram);
 end
 
-// word-aligned memory access
-// combinational read logic
 assign instr = instr_ram[instr_addr[31:2]];
 
 endmodule
