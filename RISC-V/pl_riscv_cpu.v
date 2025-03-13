@@ -1,4 +1,3 @@
-
 // pl_riscv_cpu.v - Top Module to test riscv_cpu
 
 module pl_riscv_cpu (
