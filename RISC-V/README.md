@@ -18,15 +18,6 @@ This repository presents a Verilog-based implementation of a pipelined RV32I RIS
   - **Control Hazards** – Mitigated using branch prediction and stalling  
   - **Structural Hazards** – Prevented through careful hardware resource allocation  
 
-- **Forwarding Unit**
-  - Enables read-after-write (RAW) hazard resolution by forwarding results from later pipeline stages to earlier ones.
-
-- **Stalling Unit**
-  - Introduces no-operation (NOP) instructions to safely manage data/control hazards when forwarding isn’t possible.
-
-- **Hazard Unit**
-  - Detects and resolves pipeline conflicts ensuring correct instruction execution.
-
 ---
 
 ##  Processor Architecture
