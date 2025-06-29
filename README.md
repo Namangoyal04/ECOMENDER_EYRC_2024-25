@@ -63,6 +63,12 @@ Institution: Indian Institute of Technology, Indore
 * EB needs to complete Two laps/rounds from the start position within three minutes and reach the start point again (i.e., Node 10 or Node 11) in the last lap/round.
 * To indicate END of the run, EB should stop at the start point (Node 10 or Node 11) after two laps/rounds and then blink GREEN color light in all the three LEDs with 1 sec delay.
 
+## Bot Run
+
+
+https://github.com/user-attachments/assets/1c79e911-0a4c-43b4-abca-c8c461ccc306
+
+
 ## Learning Outcomes
 
 - FPGA Design & Programming  
