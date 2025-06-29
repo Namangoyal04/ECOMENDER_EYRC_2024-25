@@ -31,6 +31,7 @@ Institution: Indian Institute of Technology, Indore
 - ✅ **Serial Communication** between FPGA and other components
 
 ---
+## Tasks Implemented
 
 ## Learning Outcomes
 
