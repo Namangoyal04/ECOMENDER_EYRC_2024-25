@@ -54,6 +54,9 @@ This project implements a **line-following robot** using Verilog HDL on FPGA, in
   `ldX_v = ldX < th ? 0 : 1` (1 = black line, 0 = white)
 
 ---
+## 🧪 LFA TEST
+https://github.com/user-attachments/assets/b29da5b7-69ca-40d1-85ed-38a10080d15c
+
 
 ## 🧠 Node Detection & Lap Counting
 
