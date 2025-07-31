@@ -6,7 +6,7 @@ This project implements a **line-following robot** using Verilog HDL on FPGA, in
 
 ## 🔧 Hardware Setup
 
-- **FPGA**: (Specify your board, e.g., DE10-Lite / Nexys A7)
+- **FPGA**: De0 Nano
 - **Line Sensor**: 3-way IR array (left, center, right)
 - **Motors**: Dual DC motors with PWM speed control
 - **Motor Driver**: L298N or equivalent

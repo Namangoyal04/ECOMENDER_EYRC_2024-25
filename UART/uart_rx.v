@@ -1,7 +1,7 @@
 
 module uart_rx(
     input clk_3125,
-    input rx,//rx of fpga getting value from tx of hc05 which is giving binary after giving 'START' from phone app
+    input rx,//rx of fpga getting value from tx of hc05 
     output reg [7:0] rx_msg,
     output reg rx_parity,
     output reg rx_complete
